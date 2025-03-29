@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 data/data.rar filter=lfs diff=lfs merge=lfs -text
+case/data.rar filter=lfs diff=lfs merge=lfs -text
